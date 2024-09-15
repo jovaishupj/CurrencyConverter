@@ -1,4 +1,4 @@
-# Exchange Rate API
+# Currency Converter API
 
 This is an ASP.NET Core Web API for retrieving  exchange rates from frankfurter.
 The API includes endpoints to fetch exchange rates with optional parameters, handle retries for API calls, and use in-memory caching.
