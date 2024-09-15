@@ -15,7 +15,7 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CurrencyConverter-api.git
+git clone https://github.com/jovaishupj/CurrencyConverter
 cd exchange-rate-api
 
 ### 2. Restore Dependencies
